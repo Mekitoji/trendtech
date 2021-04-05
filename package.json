@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "lib/convert.js",
+  "homepage": "https://github.com/Mekitoji/trendtech",
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch",
